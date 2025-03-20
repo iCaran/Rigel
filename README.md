@@ -2,6 +2,11 @@
 
 Rigel is a full-stack social media platform designed to connect users through personalized content, real-time messaging, and robust profile management. This work-in-progress application leverages modern technologies such as React, Node.js, Express, MongoDB, and Socket.IO to deliver an engaging, real-time user experience with a focus on tag-based content filtering and interactive chats.
 
+
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/x-RHjdK_ix0/0.jpg)](https://youtu.be/x-RHjdK_ix0)
+
 ---
 
 ## Table of Contents
@@ -282,13 +287,11 @@ Contributions are welcome! Please follow these steps:
 
 Please ensure your code adheres to our coding guidelines and that all tests pass.
 
----
 
 ## License
 
 This project is licensed under the GNU General Public License v2.0 License. See the [LICENSE](LICENSE) file for details.
 
----
 
 ## Authors
 
